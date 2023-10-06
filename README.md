@@ -1,4 +1,4 @@
-# SmoothPrint v1.0.1
+# SmoothPrint v1.0.2
 **SmoothPrint** is a python package to print texts letter by letter. <br/>
 You can use the **slowPrint** function for that. <br/>
 By default, the speed is set to 0.02 seconds, but you can **customize** it by providing a different speed in seconds as the second argument. <br/>
