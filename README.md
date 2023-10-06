@@ -20,6 +20,6 @@ SP.slowPrint("This would be a text to print with a speed of 0.02s!")
 # Printing a text with custom speed -> 0.1s
 SP.slowPrint("This would be a text to print with a custom speed!", 0.1)
 ```
-NOTE: _You will get error if the arguments are invalid_
+NOTE: _You will get error if the arguments are invalid_ 
 
 
