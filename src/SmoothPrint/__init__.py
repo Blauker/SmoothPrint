@@ -9,4 +9,4 @@
 # ▄█████████▀  █████▄▄██   ███    █▀  ████████▀    ███   ▀█▀   ██████████   ███    ███ 
 #              ▀                                   ▀                        ███    ███ 2023
 
-from SmoothPrint.Smooth import slowPrint  
+from SmoothPrint.Smooth import slowPrint
